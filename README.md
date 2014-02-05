@@ -51,7 +51,10 @@ You wrote a module for exercise 1.
 
 ```__name__``` is the name of the module.  
 Variables are in the module's symbol table, not global variables.  
+[Simple Symbol Table example](https://github.com/WUSTL-GIS-Programming-spring-2014/class_four/blob/master/modulesymboltables.py)  
+
 A *package* is a collection of submodules, e.g. arcpy.  
+
 ####Useful commands
 * ```dir()```  
 *	```help()```  
@@ -87,3 +90,5 @@ Can install from [Unofficial Windows Binaries for Python Extension Packages](htt
   - 'US/Central'  
 * ```zone.localize()``` Add timezone to datetime object  
 	
+###In Class Exercise  
+[Datetime Examples](https://github.com/WUSTL-GIS-Programming-spring-2014/class_four/blob/master/dtexamples.py)  
