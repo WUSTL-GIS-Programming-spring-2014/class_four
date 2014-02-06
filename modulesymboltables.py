@@ -4,5 +4,6 @@ def myName():
 def whatisa():
     print a
 def whatisglobala():
+    global a
     print a
 print "Right now, my name is:", __name__
