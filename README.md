@@ -55,7 +55,7 @@ Variables are in the module's symbol table, not global variables.
 
 A *package* is a collection of submodules, e.g. arcpy.  
 
-####Useful commands
+####Useful functions
 * ```dir()```  
 *	```help()```  
 
